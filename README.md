@@ -1,6 +1,4 @@
-# Love Running
-
-##Intro
+## Intro
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
